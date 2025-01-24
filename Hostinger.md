@@ -1,7 +1,7 @@
 # Domain-Purchase-and-Config-for-Hostinger
 
 ## 1. Create an Account in Hostinger
-   - click this link - https://auth.hostinger.com/login
+   - Create an account using - https://auth.hostinger.com/login
    - go to **Gmail** and verify your Hostinger account
 ## 2. Purchasing an Domain
    - In the **Find your domain** there is an input box, search for your desired domain ex. example.com
