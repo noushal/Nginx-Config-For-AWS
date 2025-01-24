@@ -8,4 +8,9 @@
    - **NB**: if you need domain in low price take domain with **.tech** and apply the coupon code **GRABDOMAIN**
 ## 3. Config Domain
    - After completing payment click on the **Domains** then click on **Domain portfolio**
-   - Select your domain and 
+   - Select your domain and Then in the left side click on **DNS / Nameservers**
+   - fill out the input boxes there that are below
+     Type = A
+     Name = @
+     Points to = 0.0.0.0 (Your Instance ip address from AWS)
+   - Then Click **Add Record**
