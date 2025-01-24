@@ -17,6 +17,8 @@
 
      Points to = 0.0.0.0 (Your Instance ip address from AWS)
 
+     **NB**: You can only get the ip of instance after the step
+
    - Then Click **Add Record**
 
    - If you want to add **www** as DNS to your domain then replace **@** with **www**
