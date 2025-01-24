@@ -10,7 +10,7 @@
    - After completing payment click on the **Domains** then click on **Domain portfolio**
    - Select your domain and Then in the left side click on **DNS / Nameservers**
    - fill out the input boxes there that are below
-     Type = A \n
-     Name = @ \n
-     Points to = 0.0.0.0 (Your Instance ip address from AWS) \n
+     # Type = A
+     # Name = @
+     # Points to = 0.0.0.0 (Your Instance ip address from AWS)
    - Then Click **Add Record**
