@@ -5,7 +5,7 @@ Create free AWS Account at https://aws.amazon.com/
 
 ## 2. Buy Domain From Hostinger (if you didnt have one)
 
-
+[Hostinger Guide](./Hostinger.md/)
 
 ## 2. Create and Lauch an EC2 instance
 
