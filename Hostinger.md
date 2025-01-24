@@ -17,7 +17,7 @@
 
      Points to = 0.0.0.0 (Your Instance ip address from AWS)
 
-     **NB**: You can only get the ip of instance after the step
+     **NB**: You can only get the ip of instance after the 2nd step
 
    - Then Click **Add Record**
 
