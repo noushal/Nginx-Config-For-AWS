@@ -66,6 +66,13 @@ node -v (Can be used to check if the Node is installed properly)
 ## 4. Clone your project from Github
 ```
 git clone https://github.com/<github-username>/<your-repository-name>.git
+
+cd your-repository-name
+
+npm install
+
+#If you have an env file then type this and add the content in the env file here
+nano .env
 ```
 
 ## 5. Install dependencies
