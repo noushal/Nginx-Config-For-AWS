@@ -19,4 +19,4 @@
 
    - Then Click **Add Record**
 
-   - **If you want to add **www** as DNS to your domain then follow the below instructions**
+   - If you want to add **www** as DNS to your domain then replace **@** with **www**
