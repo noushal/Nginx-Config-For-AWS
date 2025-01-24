@@ -19,13 +19,4 @@
 
    - Then Click **Add Record**
 
-   ## If you want to add **www** as DNS to your domain then follow the below instructions
-   - fill out the input boxes there that are below
-     
-     Type = A
-
-     Name = www
-
-     Points to = 0.0.0.0 (Your Instance ip address from AWS)
-
-   - Then Click **Add Record**
+   - **If you want to add **www** as DNS to your domain then follow the below instructions**
