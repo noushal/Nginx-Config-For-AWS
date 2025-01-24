@@ -49,7 +49,7 @@ Create free AWS Account at https://aws.amazon.com/
    ```
 
 
-## 3. Install Node and NPM
+## 4. Install Node and NPM
 ```
 sudo apt update
 
@@ -63,7 +63,7 @@ node -v (Can be used to check if the Node is installed properly)
 
 ```
 
-## 4. Clone your project from Github
+## 5. Clone your project from Github
 ```
 git clone https://github.com/<github-username>/<your-repository-name>.git
 
@@ -75,7 +75,7 @@ npm install
 nano .env
 ```
 
-## 5. Install dependencies
+## 6. Install dependencies
 ```
 sudo npm i pm2 -g
 pm2 start index.js (Put your main js file name)
@@ -92,7 +92,7 @@ pm2 flush (Clear logs)
 pm2 startup ubuntu
 ```
 
-## 6. Setup Firewall
+## 7. Setup Firewall
 ```
 sudo ufw enable
 sudo ufw allow ssh
@@ -103,7 +103,7 @@ sudo ufw allow https
 sudo ufw status (for getting the current status of firewall)
 ```
 
-## 7. Install NGINX and configure
+## 8. Install NGINX and configure
 ```
 sudo apt install nginx
 
@@ -136,7 +136,7 @@ sudo nginx -t
 sudo nginx -s reload
 ```
 
-## 8. Add SSL with LetsEncrypt
+## 9. Add SSL with LetsEncrypt
 ```
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt-get update
