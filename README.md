@@ -78,7 +78,7 @@ npm install
 #If you have an env file then type this and add the content in the env file here
 nano .env
 ```
-- After pasting the contents in env file click **Ctrl + X** Then Click **Y**
+- After pasting the contents in env file click **Ctrl + X** Then Click **Y**, Then Press **Enter**
 
 ## 6. Install dependencies
 ```
