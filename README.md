@@ -29,7 +29,7 @@ Create free AWS Account at https://aws.amazon.com/
    - Open CMD(Command Prompt) by searching or by the shortcut key **Windows Key + X** Then Click **A**.
    - Now Type the commands Below.
    ```
-   cd Downloads (Navigate to the folder where your SSH key is downloaded)
+   cd downloads (Navigate to the folder where your SSH key is downloaded)
 
    ssh -i "example.pem" ubuntu@Your-Public-IPv4-DNS (change the example.pem to your own pem file name and change the ip to your ip that you have copied earlier)
    ```
