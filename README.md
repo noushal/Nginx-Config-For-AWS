@@ -17,7 +17,7 @@ Create free AWS Account at https://aws.amazon.com/
    - In **Application and OS Images** Click on **Ubuntu**.
    - Click on **Create new key pair** and give a name for it, Then click **Create key pair**.
    - Now in the **Network settings**, Check the boxes **Allow SSH traffic from**, **Allow HTTPS traffic from the internet** and **Allow HTTP traffic from the internet**.
-   - In the **Configure storage** Increase the value from 8 to 30 and click **Launch Instance**.
+   - In the **Configure storage** Change the value from 8 to 30 and click **Launch Instance**.
 
 ## 3. Connect to the Instance
 
@@ -77,6 +77,8 @@ npm install
 
 #If you have an env file then type this and add the content in the env file here
 nano .env
+
+#After pasting the contents in env file click **Ctrl + X** Then Click **Y**
 ```
 
 ## 6. Install dependencies
