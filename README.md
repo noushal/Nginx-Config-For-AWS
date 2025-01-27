@@ -86,10 +86,10 @@ sudo npm i pm2 -g
 pm2 start index.js (Put your main js file name)
 
 # Other pm2 commands
-pm2 show app (change this to your app name like ex. index)
+pm2 show app (change this to your app name like eg. index)
 pm2 status
-pm2 restart app (change this to your app name like ex. index)
-pm2 stop app (change this to your app name like ex. index)
+pm2 restart app (change this to your app name like eg. index)
+pm2 stop app (change this to your app name like eg. index)
 pm2 logs (Show logs)
 pm2 flush (Clear logs)
 
