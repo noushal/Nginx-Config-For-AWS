@@ -26,7 +26,7 @@ Create free AWS Account at https://aws.amazon.com/
    - Copy the **Public IPv4 DNS**.
 
 1. **In Windows**
-   - Open CMD(Command Prompt) by searching or by the shortcut key **Windows Key + K** Then Click **K**.
+   - Open CMD(Command Prompt) by searching or by the shortcut key **Windows Key + X** Then Click **A**.
    - Now Type the commands Below.
    ```
    cd Downloads (Navigate to the folder where your SSH key is downloaded)
