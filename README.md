@@ -94,7 +94,7 @@ pm2 logs (Show logs)
 pm2 flush (Clear logs)
 
 # To make sure app starts when reboot
-pm2 startup ubuntu
+sudo pm2 startup ubuntu
 ```
 
 ## 7. Setup Firewall
