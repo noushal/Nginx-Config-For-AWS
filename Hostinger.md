@@ -13,7 +13,7 @@
      
      Type = A
 
-     Name = @
+     Name = site-name (replace **site-name** with your website name)
 
      Points to = 0.0.0.0 (Your Instance ip address from AWS)
 
@@ -21,4 +21,4 @@
 
    - Then Click **Add Record**
 
-   - If you want to add **www** as DNS to your domain then replace **@** with **www**
+   - If you want to add **www** as DNS to your domain then replace **site-name** with **www.site-name**
